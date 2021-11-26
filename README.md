@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Minh Dang</h1>
 <h3 align="center">A passionate game developer from Vietnam</h3>
+
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning sdl2, vulkan.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+- 🌱 I’m currently learning sdl2, vulkan, ...
+
 - 💬 Ask me about anything related to C++, C#, Arduino.
+
+- 🖥️ I'm currently using Elementary OS (Linux) for primary OS.
+
 - 😄 Pronouns: He/ Him
+
 - ⚡ Fun fact: I ❤️ 🧑‍🍳
 
 ## 🔗 Connect with me
