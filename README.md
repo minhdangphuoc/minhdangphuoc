@@ -7,6 +7,8 @@
 
 - 💬 Ask me about anything related to C++, C#, Arduino.
 
+- 🐧 3 Years Linux user.
+
 - 🖥️ I'm currently using Elementary OS (Linux) for primary OS.
 
 - 😄 Pronouns: He/ Him
