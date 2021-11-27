@@ -33,8 +33,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=minhdangphuoc&langs_count=10&theme=dracula&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=minhdangphuoc&show_icons=true&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhdangphuoc&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhdangphuoc&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minhdangphuoc&theme=dracula)
 
 
 
