@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact: I ❤️ 🧑‍🍳
 
+## Recent Project
+[CLI_Fluid_Simulation](https://github.com/minhdangphuoc/CLI_Fluid_Simulation)
+
 ## 🔗 Connect with me
 
 <p align="left">
