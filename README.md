@@ -9,7 +9,7 @@
 
 - 🐧 3 Years Linux user.
 
-- 🖥️ I'm currently using Elementary OS (Linux) for primary OS.
+- 🖥️ I'm currently using Elementary OS (Linux) and Window.
 
 - 😄 Pronouns: He/ Him
 
