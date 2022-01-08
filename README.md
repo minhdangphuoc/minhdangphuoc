@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh Dang</h1>
-<h3 align="center">A passionate game developer from Vietnam</h3>
+<h3 align="center">A passionate C++ developer from Vietnam</h3>
 
 - 🔭 I’m currently working on something cool
 
