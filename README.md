@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I ❤️ 🧑‍🍳
 
 ## Recent Project
-[CLI_Fluid_Simulation](https://github.com/minhdangphuoc/CLI_Fluid_Simulation)
+[Vulkan Renderer](https://github.com/minhdangphuoc/MD-Vulkan-Renderer)
 
 ## 🔗 Connect with me
 
