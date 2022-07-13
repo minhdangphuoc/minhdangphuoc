@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on something cool
 
-- 🌱 I’m currently learning sdl2, vulkan, ...
+- 🌱 I’m currently learning flutter, vulkan, opengl ...
 
 - 💬 Ask me about anything related to C++, C#, Arduino.
 
 - 🐧 3 Years Linux user.
 
-- 🖥️ I'm currently using Elementary OS (Linux) and Window.
+- 🖥️ I'm currently using Pop OS (Linux) and Window.
 
 - 😄 Pronouns: He/ Him
 
