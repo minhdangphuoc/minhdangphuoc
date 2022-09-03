@@ -17,7 +17,14 @@
 
 ## Recent Project
 - [OpenGL Renderer](https://github.com/minhdangphuoc/OpenGL-Renderer)
+
+![](https://github.com/minhdangphuoc/OpenGL-Renderer/blob/develop/screenshots/MaterialDemo.png)
+
 - [Vulkan Renderer](https://github.com/minhdangphuoc/MD-Vulkan-Renderer)
+
+![](https://github.com/minhdangphuoc/BNO055-BLE-Vulkan/raw/main/img/BLE2DRotation.gif)
+
+![](https://github.com/minhdangphuoc/BNO055-BLE-Vulkan/raw/main/img/withcase.gif)
 
 ## 🔗 Connect with me
 
