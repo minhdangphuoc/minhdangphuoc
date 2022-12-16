@@ -20,7 +20,7 @@
 
 ![](https://github.com/minhdangphuoc/OpenGL-Renderer/raw/develop/screenshots/Animation.gif)
 
-![]([https://github.com/minhdangphuoc/OpenGL-Renderer/blob/develop/screenshots/MaterialDemo.png](https://github.com/minhdangphuoc/OpenGL-Renderer/raw/develop/screenshots/sphereandmodel.png)
+![](https://github.com/minhdangphuoc/OpenGL-Renderer/raw/develop/screenshots/sphereandmodel.png)
 
 - [Vulkan Renderer](https://github.com/minhdangphuoc/MD-Vulkan-Renderer)
 
